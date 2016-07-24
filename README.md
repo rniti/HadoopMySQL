@@ -9,7 +9,7 @@ My project entitled “An experimental study on Hadoop and MySQL integration”.
 ##Check the hadoop daemons are running:
 Browse the web interface and check the namenode and resource manager:
 
-http://localhost:50070/dfshealth.html#tab-overview
+http://localhost:50070/dfshealth.html#tab-overview  
 http://localhost:8088/
 
 ##**Integration MySQL and Hadoop WorkFlow:**
