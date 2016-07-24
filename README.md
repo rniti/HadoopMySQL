@@ -17,7 +17,7 @@ http://localhost:8088/
 
 ##**Basic commands of HDFS:**
 **ls command :** Display the list of files and directories in HDFS  
-Syntax: Hadoop dfs –ls /
+```Hadoop dfs –ls /```
 
 **mkdir command :** Create the directory in hdfs  
 Syntax: hdfs dfs –mkdir /directoryname  
