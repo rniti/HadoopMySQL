@@ -35,7 +35,7 @@ http://localhost:8088/
 ```hdfs dfs –rmr  /path/to/directoryinhdfs```
 
 **touchz command :** create a file in HDFS with file size 0 bytes  
-```Syntax:hdfs dfs –touchz /directory/filename ```
+```hdfs dfs –touchz /directory/filename ```
 
 
 ##**Execution of Hadoop and MySQL integration**
