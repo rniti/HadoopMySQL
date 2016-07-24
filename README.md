@@ -13,7 +13,7 @@ http://localhost:50070/dfshealth.html#tab-overview
 http://localhost:8088/
 
 ##**Integration MySQL and Hadoop WorkFlow:**
-![Github Logo](image/hadoopMySQL.png)
+![Workflow](images/hadoopMySQL.png)
 
 ##**Basic commands of HDFS:**
 **ls command :** Display the list of files and directories in HDFS
