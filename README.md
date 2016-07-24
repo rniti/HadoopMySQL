@@ -12,6 +12,9 @@ Browse the web interface and check the namenode and resource manager:
 http://localhost:50070/dfshealth.html#tab-overview
 http://localhost:8088/
 
+##**Integration MySQL and Hadoop WorkFlow:**
+![Github Logo](image/hadoopMySQL.png)
+
 ##**Basic commands of HDFS:**
 **ls command :** Display the list of files and directories in HDFS
 Syntax: Hadoop dfs –ls /
