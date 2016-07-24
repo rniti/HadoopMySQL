@@ -40,6 +40,6 @@ http://localhost:8088/
 
 ##**Execution of Hadoop and MySQL integration**
 
-$ sh cmd.sh “sql query” dirlist
+```sh cmd.sh “sql query” filename```
 
 
