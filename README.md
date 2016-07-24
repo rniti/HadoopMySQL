@@ -16,25 +16,25 @@ http://localhost:8088/
 ![Workflow](images/hadoopMySQL.png)
 
 ##**Basic commands of HDFS:**
-**ls command :** Display the list of files and directories in HDFS
+**ls command :** Display the list of files and directories in HDFS  
 Syntax: Hadoop dfs –ls /
 
-**mkdir command :** Create the directory in hdfs
+**mkdir command :** Create the directory in hdfs  
 Syntax: hdfs dfs –mkdir /directoryname  
 
-**put command :** Copy single source, or multiple srcs from local file system to the destination file system. 
+**put command :** Copy single source, or multiple srcs from local file system to the destination file system.   
 Syntax: hdfs fs -put <localsrc> ... <dst> 
 
-**get command :** Copy files from hdfs to the local file system. 
+**get command :** Copy files from hdfs to the local file system.   
 Syntax: hadoop fs -get <src> <localdst> 
 
-**rm command :** Remove the file from HDFS
+**rm command :** Remove the file from HDFS  
 Syntax:hdfs dfs –rm /path/to/fileinhdfs 
 
-**rmr command :** Remove the directory from HDFS
+**rmr command :** Remove the directory from HDFS  
 Syntax:hdfs dfs –rmr  /path/to/directoryinhdfs
 
-**touchz command :** create a file in HDFS with file size 0 bytes
+**touchz command :** create a file in HDFS with file size 0 bytes  
 Syntax:hdfs dfs –touchz /directory/filename 
 
 
